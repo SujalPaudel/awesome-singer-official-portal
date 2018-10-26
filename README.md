@@ -698,7 +698,7 @@ A curated list of awesome singer official portals.
 
 *Pitbull*
 
-* [Pitbull](http://climatechange.pitbullmusic.com/)
+* [Pitbull](http://pitbullmusic.com/)
 
 ## Prince
 
